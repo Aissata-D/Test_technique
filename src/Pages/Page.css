@@ -1,0 +1,143 @@
+.div1-topnav{
+    width: 98%;
+    height: 30px;
+    background-color: rgba(49, 120, 214, 0.527);
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 2px;
+    border: 1px solid rgb(1, 38, 53);
+   
+}
+
+.div-logo{
+width: 18%;
+height: 100px;
+border-right:3px solid grey;
+border-left: 1px solid grey;
+border-top: 1px solid grey;
+border-bottom: 1px solid grey;
+margin-left: 10px;
+float: left;
+}
+
+.img-logo{
+    width: 50%;
+    height: 75%;
+   position: relative;
+   left:50px;
+   top: 10px;
+}
+
+.div2-topnav{
+width: 80%;
+height: 100px;
+border-right:1px solid grey;
+border-left: 1px solid grey;
+border-top: 1px solid grey;
+border-bottom: 1px solid grey;
+margin-right: 10px;
+float: left;
+
+    
+}
+.div1-leftnav{
+    width: 18%;
+    height: 500px;
+    border-right:3px solid grey;
+    border-left: 1px solid grey;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    margin-left: 10px;
+    float: left; 
+}
+
+.div2-leftnav{
+    width: 100%;
+    height: 30%;
+    border-top: 3px solid grey;
+    position: relative;
+    top:30px;
+    
+}
+
+
+.div-MainNav{
+    width: 80%;
+    height: 500px;
+    border-right:1px solid grey;
+    border-left: 1px solid grey;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    margin-right: 10px;
+    float: left;
+}
+
+.button-compte{
+    height: 50px;
+    background-color: rgba(49, 120, 214, 0.527);
+    float: right;
+    position: relative;
+    right: 20px;
+    top: 20px;  
+    
+}
+
+.Button{
+    float: right;
+    position: relative;
+    right: 120px;
+    top:100px;
+    background-color: rgba(49, 120, 214, 0.527);
+  
+    
+}
+
+.MainApp{
+   width: auto; 
+   text-align: center;
+   position: relative;
+   top: 30px;
+}
+
+
+.monsieur{
+    height: 100px;
+    width: 120px;
+   
+
+}
+
+.madame{
+    height: 100px;
+    width: 120px;
+    
+ 
+}
+
+
+.lien{
+    height: 54px;
+    width: 150px;
+    background-color: rgba(49, 120, 214, 0.527);
+  margin-top: 20px;
+  margin-left: 35px;;
+  text-decoration: none;
+  
+
+}
+
+.Question{
+   margin-bottom: 50px;
+    
+}
+.DivNom{
+    display: inline;
+    margin: 20px;
+    width: 150px;
+
+}
+.DivPrenom{
+    float: left;
+    
+}
